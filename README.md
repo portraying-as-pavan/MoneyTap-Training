@@ -1,2 +1,2 @@
 # MoneyTap-Training
-Training on backend withSpringBoot
+These projects were made as part of Backend with SpringBoot Training with MoneyTap as BackEnd Developer
